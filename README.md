@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Building out my portfolio
+- 🔭 I’m currently working on ... ArcGIS Projects
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... Python
